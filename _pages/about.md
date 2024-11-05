@@ -22,9 +22,8 @@ Research Interests
 Generally, I'm interested in designing safe and efficient intelligent systems. Driven by this interest, I enjoy tackling problems on different domains relevant to Trustworthy AI. Additionally, I enjoy investigating and bringing novel ideas to deep learning architectures, such as transformers. My main areas of interest are:
 
 * Trustworthy & Safe AI
-* Security
 * Generative AI
-* Transformers
 * Computer Vision
+* Transformers
 * Representation Learning
 * Algorithms
