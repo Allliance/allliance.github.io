@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Computer Science PhD student at [Yale University](https://yale.edu) advised by Prof. [Arman Cohan](https://armancohan.com/) .
+I'm a Computer Science PhD student at [Yale University](https://yale.edu) advised by Prof. [Arman Cohan](https://armancohan.com/).
 
 Previous I received by B.Sc. from [Sharif University of Technology](https://sharif.edu). At Sharif, I have been a member of Prof. [Rohban](https://sharif.ir/~rohban/)'s [RIML lab](https://github.com/rohban-lab) since 2022. There, I have been working on various projects in the fields of adversarial robustness, outlier detection, and backdoor detection.
 
